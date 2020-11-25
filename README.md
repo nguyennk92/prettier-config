@@ -1,4 +1,4 @@
-#Prettier config
+# Prettier config
 
 Prettier config to have persistent format across projects
 
