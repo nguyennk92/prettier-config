@@ -3,7 +3,17 @@
   "version": "1.0.0",
   "description": "Prettier config to have consistent format across projects",
   "main": ".prettierrc.js",
-  "repository": "git@github.com:nguyennk92/prettier-config.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nguyennk92/prettier-config.git"
+  },
   "author": "Nguyen Khoi Nguyen <nguyennk92@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nguyennk92/prettier-config/issues"
+  },
+  "homepage": "https://github.com/nguyennk92/prettier-config#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
